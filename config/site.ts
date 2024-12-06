@@ -43,7 +43,7 @@ export const siteConfig = {
     whatsapp: "https://wa.me/+447883301306",
     phone: "+447883301306",
     telegram: "https://t.me/Invest_Smart_LTD",
-    mail: "info@investsmart.com",
+    mail: "support@invest-smartnow.com",
   },
   baseURL: "https://admin.invest-smartnow.com/api",
 }
