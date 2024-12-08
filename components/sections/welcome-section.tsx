@@ -66,7 +66,7 @@ export default function WelcomeSection() {
           <Image
             alt="Bitcoin"
             src="/bitcoin-welcome.png"
-            width={1600}
+            width={1400}
             height={719}
             className="xl:max-w-[1000px]"
           />
