@@ -16,7 +16,7 @@ export default function TradingViewMiniWidget() {
         "https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js"
       script.async = true
       script.innerHTML = JSON.stringify({
-        symbol: "MARKETSCOM:BITCOIN",
+        symbol: "COINBASE:BTCUSD",
         locale: "en",
         colorTheme: "light",
         isTransparent: true,
